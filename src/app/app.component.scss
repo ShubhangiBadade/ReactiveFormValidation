@@ -1,0 +1,12 @@
+body {
+    background-color: #17B486;
+}
+.ng-invalid{
+    &.ng-dirty,
+    &.ng-touched{
+        border-color: red !important;
+    }
+}
+
+
+
